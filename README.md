@@ -61,6 +61,17 @@ cd Decentralised-calculator-
 ```bash
 npm install
 ```
+4. Navigate to the project directory:
+
+```bash
+cd my-app
+```
+
+5. Install the required dependencies:
+
+```bash
+npm install
+```
 
 ## How to Use
 
